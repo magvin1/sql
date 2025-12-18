@@ -1,0 +1,1 @@
+SELECT * FROM gestione_corsi.corsi_frequentati;
